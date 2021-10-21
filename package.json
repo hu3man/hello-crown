@@ -1,0 +1,20 @@
+{
+  "name": "hello-crown",
+  "version": "1.0.0",
+  "description": "My first app using the Crown ",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "neurosity",
+    "crown"
+  ],
+  "author": "Houston Krohman",
+  "license": "MIT",
+  "dependencies": {
+    "@neurosity/notion": "^5.6.0",
+    "dotenv": "^10.0.0"
+  }
+}
